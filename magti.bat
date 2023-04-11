@@ -1,0 +1,1 @@
+node C:\Users\Admin\Desktop\magti\project\index2.js
